@@ -1,11 +1,13 @@
+<h1  align='center'>Hi there 👋</h1>
+
 ![screen-gif](./WelcomeGif.gif)
 
-<h1  align='center'>Hi there 👋</h1>
+
+<h2 align='center'>📊My GitHub stats<h2>
 
 <div align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=IDontCareKappa&theme=dark&show_icons=true'>
 </div>
-
 
 <div align='center'>
   <img src='https://github-readme-stats.vercel.app/api/pin/?username=IDontCareKappa&repo=Blender_LightManipulation&theme=dark'>
@@ -13,6 +15,8 @@
 </div>
 
 <br><br>
+
+<h2 align='center'>💻Technologies<h2>
 
 <div align='center'>
   <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white'>
