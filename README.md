@@ -1,7 +1,8 @@
 <h1  align='center'>Hi there 👋</h1>
 
-![screen-gif](./WelcomeGif.gif)
-
+<div align='center'>
+  <img src='./WelcomeMsg.gif'>
+</div>
 
 <h2 align='center'>📊My GitHub stats<h2>
 
