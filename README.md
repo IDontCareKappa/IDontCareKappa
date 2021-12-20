@@ -1,7 +1,6 @@
-### Hi there 👋
-
-
 ![screen-gif](./WelcomeGif.gif)
+
+<h1  align='center'>Hi there 👋</h1>
 
 <div align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=IDontCareKappa&theme=dark&show_icons=true'>
