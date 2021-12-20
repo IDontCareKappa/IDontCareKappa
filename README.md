@@ -35,9 +35,21 @@
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=IDontCareKappa&hide=javascript,html,css&theme=dark'>
 </div>
 
+<br><br>
 
-
-
+<h2 align='center'>📧Contact<h2>
+<br>
+<div align='center'>
+  <img src ='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
+  <br>
+  <p>tostrowski2000@gmail.com</p>
+</div>
+<br>
+<div align='center'>
+  <img src ='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'>
+  <br>
+  <a href='https://www.linkedin.com/in/tomasz-ostrowski-23a25b228/'>My LinkedIn profile</a>
+</div>
 
 
 <!--
