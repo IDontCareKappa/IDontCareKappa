@@ -12,7 +12,9 @@
 
 <div align='center'>
   <img src='https://github-readme-stats.vercel.app/api/pin/?username=IDontCareKappa&repo=Blender_LightManipulation&theme=dark'>
-  <img src='https://github-readme-stats.vercel.app/api/pin/?username=IDontCareKappa&repo=Spring-To-Do-App&theme=dark'>
+  <img src='https://github-readme-stats.vercel.app/api/pin/?username=IDontCareKappa&repo=Forum-Spring-App&theme=dark'>
+  <img src='https://github-readme-stats.vercel.app/api/pin/?username=IDontCareKappa&repo=Laravel-Project&theme=dark'>
+  <img src='https://github-readme-stats.vercel.app/api/pin/?username=IDontCareKappa&repo=Website-Project&theme=dark'>
 </div>
 
 <br><br>
