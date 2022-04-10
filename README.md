@@ -7,7 +7,9 @@
 <h2 align='center'>📊My GitHub stats<h2>
 
 <div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=IDontCareKappa&theme=dark&show_icons=true'>
+  <a href="https://github.com/IDontCareKappa?tab=repositories">
+    <img src='https://github-readme-stats.vercel.app/api?username=IDontCareKappa&theme=dark&show_icons=true'>
+  </a>
 </div>
 
 <div align='center'>
